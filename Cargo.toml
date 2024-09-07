@@ -1,0 +1,8 @@
+[package]
+name = "raschka_2024_llm_workshop_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.10.6"
+tiktoken-rs = "0.5.9"
